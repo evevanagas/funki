@@ -1,2 +1,2 @@
 # funki
- fun stuff
+fun stuff
